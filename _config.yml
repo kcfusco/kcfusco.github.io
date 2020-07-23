@@ -1,16 +1,1 @@
 remote_theme: nivex28/jekyll-theme
-
-# Site settings
-title: Kevin Fusco - Programming Enthusiast 
-description: Kevin Fusco - Ambituous programmer, biomedical engineer, and future data scientist.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://nivex28.github.io/" # the base hostname & protocol for your site
-
-# User settings
-username: Kevin Fusco
-user_description: Senior biomedical engineering student at Florida International University
-user_title: Biomedical engineer
-email: dev.kevin.f@gmail.com
-twitter_username: lorem_ipsum
-github_username:  nivex28
-gplus_username:  lorem_ipsum
