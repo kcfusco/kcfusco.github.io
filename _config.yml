@@ -1,3 +1,16 @@
 remote_theme: nrandecker/particle
+
+# Site settings
 title: Kevin Fusco - Programming Enthusiast 
 description: Kevin Fusco - Ambituous programmer, biomedical engineer, and future data scientist.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://nivex28.github.io/" # the base hostname & protocol for your site
+
+# User settings
+username: Lorem Ipsum
+user_description: Anon Developer at Lorem Ipsum Dolor
+user_title: Kevin Fusco
+email: dev.kevin.f@gmail.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
